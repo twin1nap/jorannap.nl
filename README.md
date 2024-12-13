@@ -11,3 +11,4 @@ todo:
     - smaller in height and icon instead of picture = small description(icon left and name and description next to it description undedr name with hr tag)
 - fix header not in right position due to image on left side
 - logo does not bring you back to main page
+- fix responsive for mobile(things like header)(maybe in v1.1.0)
