@@ -9,3 +9,4 @@ todo:
 - make header look better
 - make project anker look difrent from digitaal-magazeen
     - smaller in height and icon instead of picture = small description(icon left and name and description next to it description undedr name with hr tag)
+- fix header not in right position due to image on left side
