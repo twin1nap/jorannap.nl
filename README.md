@@ -3,12 +3,11 @@ mijn website
 
 todo:
 - add new projects to home page
-- add projects to project pages
 - add version page
-- optimise css(might be for v1.0.1)
-- make header look better
-- make project anker look difrent from digitaal-magazeen
-    - smaller in height and icon instead of picture = small description(icon left and name and description next to it description undedr name with hr tag)
-- fix header not in right position due to image on left side
+- optimise css(might be for v1.0.1 or is called v2.0.0)
+- make header look better(maybe in v1.1.0)
+- fix header not in right position due to image on left side(might be for v1.0.1 or maybe in v1.1.0)
 - logo does not bring you back to main page
 - fix responsive for mobile(things like header)(maybe in v1.1.0)
+- put inline css in css file(if its still in html)
+- ### make page for each projects(small description + github link.)
