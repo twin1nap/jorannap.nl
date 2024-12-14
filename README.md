@@ -4,7 +4,7 @@ mijn website
 todo:
 - add new projects to home page
 - add version page
-- optimise css(might be for v1.0.1 or is called v2.0.0)
+- optimise css(might be for v1.0.1 or is called v2.0.0)(its v1.1.0)
 - make header look better(maybe in v1.1.0)
 - fix header not in right position due to image on left side(might be for v1.0.1 or maybe in v1.1.0)
 - logo does not bring you back to main page
