@@ -1,0 +1,2 @@
+chaning where to go to when you open jorannap.nl changes what is the root, so subdomain can have a difrent root, does then ../ still work to go to the filder before the root and also learn the propper file manegement.
+^ PROPER FILE manegement

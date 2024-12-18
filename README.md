@@ -9,3 +9,4 @@ todo:
 - fix responsive for mobile(things like header)(maybe in v1.1.0)
 - put inline css in css file(if its still in html)
 - ### make page for each projects(small description + github link.)
+- maak logo no background.
