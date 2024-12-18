@@ -10,3 +10,4 @@ todo:
 - put inline css in css file(if its still in html)
 - ### make page for each projects(small description + github link.)
 - maak logo no background.
+- op version page een link naar de dev version page.
