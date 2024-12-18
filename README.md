@@ -3,7 +3,7 @@ mijn website
 
 todo:
 - add version page
-- optimise css(might be for v1.0.1 or is called v2.0.0)(its v1.1.0) (redone css code in responsive-website.)
+- optimise css(might be for v1.0.1 or is called v2.0.0)(its v1.1.0) (redone css code in responsive-website.(not fully optimized.)
 - make header look better(maybe in v1.1.0)
 - fix header not in right position due to image on left side(might be for v1.0.1 or maybe in v1.1.0)
 - fix responsive for mobile(things like header)(maybe in v1.1.0)
