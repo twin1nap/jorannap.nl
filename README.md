@@ -12,4 +12,4 @@ todo:
 - op version page een link naar de dev version page.
 - div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)(mabe in v1.0.0)
 - div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)
-- # responsive css fixen(op ipad vertikaal is de hoogte anders als er een small in staat(fix = vaste hoogte))   
+- ### responsive css fixen(op ipad vertikaal is de hoogte anders als er een small in staat(fix = vaste hoogte))   
