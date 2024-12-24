@@ -5,3 +5,5 @@
 
 - host website on github repository with still the same domain
 - use gitup readme as automatic changing source for description
+- make favicon an icon file instead of picture(smaller)
+- the logo does not need an background, if it doesnt have any its more reusable on difrent websites
