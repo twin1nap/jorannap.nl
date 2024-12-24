@@ -11,4 +11,4 @@ todo:
 - ### make page for each projects(small description + github link.)
 - maak logo no background.
 - op version page een link naar de dev version page.
-- main div bigger when hoverinh to show description(for the projects and also updates)(try to add animation)
+- div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)
