@@ -10,8 +10,13 @@ todo:
 - ### make page for each projects(small description + github link.)
 - maak logo no background.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 - op version page een link naar de dev version page.
 - div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)(mabe in v1.0.0)
+=======
+- div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)
+- # responsive css fixen(op ipad vertikaal is de hoogte anders als er een small in staat(fix = vaste hoogte))
+>>>>>>> Stashed changes
 =======
 - div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)
 - # responsive css fixen(op ipad vertikaal is de hoogte anders als er een small in staat(fix = vaste hoogte))
