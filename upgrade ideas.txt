@@ -7,3 +7,4 @@
 - use gitup readme as automatic changing source for description
 - make favicon an icon file instead of picture(smaller)
 - the logo does not need an background, if it doesnt have any its more reusable on difrent websites
+- explination of terms instead of 'term(explination)' i do "term"(bold) and when you hover it then it shows an explination.
