@@ -8,6 +8,7 @@ todo:
 - fix responsive for mobile(things like header)(maybe in v1.1.0)
 - put inline css in css file(if its still in html)
 - ### make page for each projects(small description + github link.) (9 pages)
+    - ### add descriptions on project page for all projects
 - maak logo no background.
 - op version page een link naar de dev version page.
 - div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)(maybe in v1.0.0)
