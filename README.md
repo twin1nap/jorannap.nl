@@ -14,3 +14,4 @@ todo:
 - div in main bigger when hovering to show description(for the projects and also updates)(try to add animation)(maybe in v1.0.0)
 - ### responsive css fixen(op ipad vertikaal is de hoogte anders als er een small in staat(fix = vaste hoogte))   
 - spellings controle doen
+-fixed footer and sticky header 
